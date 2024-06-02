@@ -1,0 +1,886 @@
+Problematic value (contains letters): 42,000ish
+Problematic value (contains letters): 51,000 including health insurance stipend
+Problematic value (contains letters): 35K
+Problematic value (contains letters): 59K
+Problematic value (contains letters): $18.53/hr or $35,600/yr
+Problematic value (contains letters): 60-90K
+Problematic value (contains letters): 175K + bonus
+Problematic value (contains letters): $168,100.00 (base salary)
+Problematic value (contains letters): $68K
+Problematic value (contains letters): 90K
+Problematic value (contains letters): 65k
+Problematic value (contains letters): $200,000 including bonus and 401k match
+Problematic value (contains letters): $150,000 + 15% cash bonus and equity
+Problematic value (contains letters): $40/hour
+Problematic value (contains letters): 80K
+Problematic value (contains letters): 76k
+Problematic value (contains letters): $10.10/ hour. Approx $20k last year
+Problematic value (contains letters): $22.80/hr non-exempt (~$48k)
+Problematic value (contains letters): 128K + bonus
+Problematic value (contains letters): 125000 plus bonus
+Problematic value (contains letters): 90,000 + bonus of 15,000
+Problematic value (contains letters): 30K (after taxes)
+Problematic value (contains letters): $105k
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 35k plus commission
+Problematic value (contains letters): 275,000 base
+Problematic value (contains letters): $50k
+Problematic value (contains letters): 71,000 base with 6,000 administrative bonus
+Problematic value (contains letters): 62,000 USD
+Problematic value (contains letters): 40,000 gross salary, 30,000 net salary (=after tax/pension/healthcare quota)
+Problematic value (contains letters): 77000 plus bonus
+Problematic value (contains letters): 35k
+Problematic value (contains letters): 185,000 base
+Problematic value (contains letters): 47 K
+Problematic value (contains letters): $25/hr
+Problematic value (contains letters): 56,000 ($27.25 an hour)
+Problematic value (contains letters): 50000/year
+Problematic value (contains letters): 115000 Plus Commission
+Problematic value (contains letters): 56k
+Problematic value (contains letters): 20000, net 11000
+Problematic value (contains letters): $105k
+Problematic value (contains letters): 153,000 + bonus
+Problematic value (contains letters): 80K
+Problematic value (contains letters): 195,000 base + 20% bonus
+Problematic value (contains letters): 70K
+Problematic value (contains letters): $31 hourly + shift diffentials
+Problematic value (contains letters): $32,000 on an hourly basis
+Problematic value (contains letters): $145,000 plus bonus and LTI
+Problematic value (contains letters): $62K
+Problematic value (contains letters): $27,500, give or take
+Problematic value (contains letters): $18/hr + $4,000 in bonuses (based on meeting sales goals)
+Problematic value (contains letters): 40k
+Problematic value (contains letters): 23, 300 before tax
+Problematic value (contains letters): 50,00p
+Problematic value (contains letters): 35k
+Problematic value (contains letters): 82500 + 10% target bonus
+Problematic value (contains letters): 37,000 (17.85 per hour)
+Problematic value (contains letters): $53K
+Problematic value (contains letters): $22/hour
+Problematic value (contains letters): $48,000 pre-tax and deductions. Take home pay is half that
+Problematic value (contains letters): Base pay $49900, with bonus opportunities & seasonal OT have earned up to 95k
+Problematic value (contains letters): 160000 plus bonus and stock options
+Problematic value (contains letters): 9,400 for a summer
+Problematic value (contains letters): $41,000 (Roughly. I am paid hourly.)
+Problematic value (contains letters): $200k
+Problematic value (contains letters): 80,000 base
+Problematic value (contains letters): 161,300 base, plus 20% annual bonus and 20% RSU/stock options
+Problematic value (contains letters): 49000/37.5 hour weeks. Can go up to 40/week with corresponding increase in any given week, no questions asked.
+Problematic value (contains letters): 50,000 (gross)
+Problematic value (contains letters): $72,000 Per year base + $8k year-end bonus
+Problematic value (contains letters): 54,000 + profit sharing
+Problematic value (contains letters): 150k
+Problematic value (contains letters): 32000.00 (pretax $16/hr)
+Problematic value (contains letters): 50k for 20 hours a week
+Problematic value (contains letters): $45K
+Problematic value (contains letters): 48K
+Problematic value (contains letters): 29,000 (plus commissions - avg. 10,000-15,000 per year)
+Problematic value (contains letters): 70K
+Problematic value (contains letters): 100000+bonus
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 70,835 year
+Problematic value (contains letters): 40,000 plus commission
+Problematic value (contains letters): 110k
+Problematic value (contains letters): 115,000 + 20% bonus
+Problematic value (contains letters): 55,000 annually
+Problematic value (contains letters): $42,000 (base, $56,000 including commission)
+Problematic value (contains letters): 18/hr
+Problematic value (contains letters): 115k
+Problematic value (contains letters): around 30,000
+Problematic value (contains letters): 250,000.00 (average)
+Problematic value (contains letters): $210K
+Problematic value (contains letters): £13k
+Problematic value (contains letters): 56k to 65k not including superannuation and depending on overtime, and time of day
+Problematic value (contains letters): 32k
+Problematic value (contains letters): Varies on how much work you get. Job pays $15/hr (min wage in NY).
+Problematic value (contains letters): 59,000 (plus housing)
+Problematic value (contains letters): $50/hr
+Problematic value (contains letters): $18/hour
+Problematic value (contains letters): Varies >10,000
+Problematic value (contains letters): $38,000 (+ overtime)
+Problematic value (contains letters): 50K
+Problematic value (contains letters): I make 44.5% commission and I expect to take home $65k this year
+Problematic value (contains letters): 90,000 + bonus up to 20%
+Problematic value (contains letters): $59,000 plus phone and other tech
+Problematic value (contains letters): 150,000 plus bonuses
+Problematic value (contains letters): 120,000 + 60,000 bonus
+Problematic value (contains letters): $67,000 + 10% bonus opportunity
+Problematic value (contains letters): Approximately $25,000
+Problematic value (contains letters): $45 K
+Problematic value (contains letters): 35000 (basic)
+Problematic value (contains letters): $93,000 plus some change
+Problematic value (contains letters): £26,000 and £20,000 pro rata respectively - three days at 26, one at 20 which means 19,200 for four days
+Problematic value (contains letters): 63k
+Problematic value (contains letters): 65K
+Problematic value (contains letters): 38,000 gross
+Problematic value (contains letters): 47k
+Problematic value (contains letters): $31,200 (not counting the 12 weeks a year where I’m working 50-70 hour weeks)
+Problematic value (contains letters): 32k
+Problematic value (contains letters): 35K
+Problematic value (contains letters): 160,00p
+Problematic value (contains letters): 49,500 plus monthly 10% bonuses
+Problematic value (contains letters): 42000 (10ish month contract like teachers, salary includes significant amount of overtime)
+Problematic value (contains letters): $65K
+Problematic value (contains letters): 78500 + bonus up to 25000 based on revenue I bring to the practice
+Problematic value (contains letters): 65,000/year
+Problematic value (contains letters): £24,500 fte
+Problematic value (contains letters): Under 2,000 I don't pay taxes
+Problematic value (contains letters): 55000+about 21000 in bonus and employee restricted stock
+Problematic value (contains letters): 340000 with approx 140000 bonus
+Problematic value (contains letters): 72000 base, 95k after bonuses
+Problematic value (contains letters): 81600 (part time)
+Problematic value (contains letters): 63500 + commission
+Problematic value (contains letters): Hourly
+Problematic value (contains letters): $36000/year before tax
+Problematic value (contains letters): 70,000 w/ bonus, 65 w/o
+Problematic value (contains letters): about $30,000
+Problematic value (contains letters): $190,000 plus bonus
+Problematic value (contains letters): 110,000 per year
+Problematic value (contains letters): 55k
+Problematic value (contains letters): 96K
+Problematic value (contains letters): $67K
+Problematic value (contains letters): $9/hr
+Problematic value (contains letters): @ $80,000 36 hour week
+Problematic value (contains letters): 31000 pre tax
+Problematic value (contains letters): 85K-100K depending on the project budget
+Problematic value (contains letters): 81,000 base; 10% bonus paid out over year
+Problematic value (contains letters): 65.000 EUR
+Problematic value (contains letters): 63.5k
+Problematic value (contains letters): $45/hour
+Problematic value (contains letters): 29.5k
+Problematic value (contains letters): $250,000 plus 35% variable compensation (bonus)
+Problematic value (contains letters): 90,000 plus bonus
+Problematic value (contains letters): 121,000 + bonus of 25%-50%
+Problematic value (contains letters): $89k
+Problematic value (contains letters): 132k
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 18k
+Problematic value (contains letters): 125,000 plus bonus
+Problematic value (contains letters): 125,000 + up to 8% bonus
+Problematic value (contains letters): 40000 part time
+Problematic value (contains letters): $100k
+Problematic value (contains letters): 86K
+Problematic value (contains letters): 42k
+Problematic value (contains letters): 60K
+Problematic value (contains letters): 255,000 plus bonus
+Problematic value (contains letters): 79k
+Problematic value (contains letters): $193,000 (approx gross)
+Problematic value (contains letters): 58000 plus 10% bonus
+Problematic value (contains letters): 45,000 in 2018 (varies year to year)
+Problematic value (contains letters): $175,000 including bonus
+Problematic value (contains letters): 74000 approx.
+Problematic value (contains letters): 50k
+Problematic value (contains letters): 175,000 plus bonus and equity
+Problematic value (contains letters): $85,000 plus about $20,000 in bonuses
+Problematic value (contains letters): 49K
+Problematic value (contains letters): 35K
+Problematic value (contains letters): Around 35.000
+Problematic value (contains letters): NET APPROX 24.000,00 EURO
+Problematic value (contains letters): 65,800 plus bonus
+Problematic value (contains letters): $78,500 (plus annual bonus btwn $5k-$8k)
+Problematic value (contains letters): 28/hour
+Problematic value (contains letters): 50k
+Problematic value (contains letters): 47,000ish
+Problematic value (contains letters): $370,000 (varies)
+Problematic value (contains letters): 41995.20 (plus bonuses and allowances)
+Problematic value (contains letters): 71,000 (plus OT- unknown amount each year)
+Problematic value (contains letters): 8838 ( gross 2018)
+Problematic value (contains letters): 400,000 + bonus
+Problematic value (contains letters): 55k
+Problematic value (contains letters): 40k
+Problematic value (contains letters): $51,500 (including $1,500 in bonuses)
+Problematic value (contains letters): 138,000 base + ~20,000 annual bonus + ~70,000 annual RSU refresh grant
+Problematic value (contains letters): $87500 base + yearly bonus (~ $4200)
+Problematic value (contains letters): Hourly, but works out to ~$38,000
+Problematic value (contains letters): varies widely, from 2.5 million to about 4 million
+Problematic value (contains letters): 65k
+Problematic value (contains letters): Part time, $12 an hour, 28 hours a week.
+Problematic value (contains letters): 147,000 + 20% bonus
+Problematic value (contains letters): 35k
+Problematic value (contains letters): 36,200 and about $2k in extra health insurance benefits
+Problematic value (contains letters): $15/hour
+Problematic value (contains letters): $75,000 base $20,000 bonus
+Problematic value (contains letters): $72,000 plus bonus
+Problematic value (contains letters): Just got a new job, went from 83,200, to 125,000
+Problematic value (contains letters): $16.50/hr, appx 30k yearly
+Problematic value (contains letters): 30,00p
+Problematic value (contains letters): 100K
+Problematic value (contains letters): $109,000 (gross)
+Problematic value (contains letters): $23/hr
+Problematic value (contains letters): 50k
+Problematic value (contains letters): $13.50/hr part time
+Problematic value (contains letters): 45k
+Problematic value (contains letters): Hourly at $20/HR for 2018 - $33857.13. I received a raise in February to $22/HR
+Problematic value (contains letters): 53,000 + commissions
+Problematic value (contains letters): 79K
+Problematic value (contains letters): $38,000 (includes overtime)
+Problematic value (contains letters): 110,000 + bonus
+Problematic value (contains letters): ~£29.5k
+Problematic value (contains letters): 120,000 + 15% bonus
+Problematic value (contains letters): $33,000 depending on case bonuses
+Problematic value (contains letters): Free rent
+Problematic value (contains letters): 75,000 + bonus
+Problematic value (contains letters): $16/hr (contractor)
+Problematic value (contains letters): 74k
+Problematic value (contains letters): $34k
+Problematic value (contains letters): roughly 25k
+Problematic value (contains letters): 34k
+Problematic value (contains letters): 75K
+Problematic value (contains letters): 96k
+Problematic value (contains letters): 97k annually
+Problematic value (contains letters): $11.44/hour
+Problematic value (contains letters): 74.7k
+Problematic value (contains letters): 70,000/yr
+Problematic value (contains letters): 35000 32hours per week
+Problematic value (contains letters): $49,275 plus $5k bonus potential
+Problematic value (contains letters): $24/hr but half-time
+Problematic value (contains letters): $20-35/hr, part-time
+Problematic value (contains letters): 70,000/yr
+Problematic value (contains letters): 86,000 + 15% bonus, which brings me to $101K
+Problematic value (contains letters): 65K
+Problematic value (contains letters): average $40,000.
+Problematic value (contains letters): $75k
+Problematic value (contains letters): $85,000 +10% bonus +$40,000 stock award
+Problematic value (contains letters): $16/h, 35 hours a week
+Problematic value (contains letters): 130000 + 50000 in overtime
+Problematic value (contains letters): 32,000 (18/hr, 35h/wk)
+Problematic value (contains letters): 51k
+Problematic value (contains letters): $114,000 + ~$5,000 bonus
+Problematic value (contains letters): 55000 ish (including bonuses)
+Problematic value (contains letters): 105k
+Problematic value (contains letters): 71k
+Problematic value (contains letters): $40k
+Problematic value (contains letters): 67000 + annual bonus
+Problematic value (contains letters): 157,000 + 40% bonus
+Problematic value (contains letters): $45k
+Problematic value (contains letters): 220,000 plus annual bonus
+Problematic value (contains letters): $24.74/hr
+Problematic value (contains letters): $24.74/hr
+Problematic value (contains letters): 110,000 plus bonus
+Problematic value (contains letters): 66300 (up to 76500 depending on performance)
+Problematic value (contains letters): $56k  (under market, but I love my boss)
+Problematic value (contains letters): 25,000est
+Problematic value (contains letters): $62,000 + quarterly bonuses
+Problematic value (contains letters): 60K
+Problematic value (contains letters): 84,000 + 17,000 annual bonus
+Problematic value (contains letters): 115,000 (plus an annual bonus of up to 15%)
+Problematic value (contains letters): 58k
+Problematic value (contains letters): 48K
+Problematic value (contains letters): 40k a year
+Problematic value (contains letters): 7500$ part time
+Problematic value (contains letters): 39500/yr
+Problematic value (contains letters): 25k
+Problematic value (contains letters): 65K
+Problematic value (contains letters): 50K
+Problematic value (contains letters): 150k
+Problematic value (contains letters): around 10,000
+Problematic value (contains letters): 190000 base salary with annual bonus opportunity
+Problematic value (contains letters): $200k
+Problematic value (contains letters): 62k
+Problematic value (contains letters): 250,000 (including bonus)
+Problematic value (contains letters): 30000-55000 ($35/hour but hours vary)
+Problematic value (contains letters): $16/hr with per diem (appr $25,000/yr)
+Problematic value (contains letters): 131818 salary, 9182 target bonus, ~50000 stock
+Problematic value (contains letters): I do not receive a salary. I am paid hourly, between $33 to $45/hr, depending on the type of project
+Problematic value (contains letters): 45000 plus profit share
+Problematic value (contains letters): Approx. 1200 a month
+Problematic value (contains letters): $54,000 (hourly)
+Problematic value (contains letters): $124,000 plus potential 20% bonus
+Problematic value (contains letters): 72,000 + bonus
+Problematic value (contains letters): 86, 600 Base, Plus 25% Bonus
+Problematic value (contains letters): 138k
+Problematic value (contains letters): 95k
+Problematic value (contains letters): 104K
+Problematic value (contains letters): 17/hr part time. 25 hrs a week
+Problematic value (contains letters): 91,000 plus bonus (one third of receivables that exceed 3x salary)
+Problematic value (contains letters): 42K
+Problematic value (contains letters): 45,000.00 - ish
+Problematic value (contains letters): 62K
+Problematic value (contains letters): $77,000 + 10% EOY bonus
+Problematic value (contains letters): $200k
+Problematic value (contains letters): 45K
+Problematic value (contains letters): Variable due to commissions, but typically $350,000
+Problematic value (contains letters): $48,000 before taxes
+Problematic value (contains letters): 51,500 + bonus
+Problematic value (contains letters): 38k
+Problematic value (contains letters): $38,000 plus 1% of all catering revenue, projected to be an additional $10k.
+Problematic value (contains letters): $83K
+Problematic value (contains letters): $90k
+Problematic value (contains letters): $83K
+Problematic value (contains letters): $240000 + 25% bonus
+Problematic value (contains letters): £40,000 + London weighting
+Problematic value (contains letters): $23.45 an hour
+Problematic value (contains letters): 13,000 GBP (part time hours)
+Problematic value (contains letters): 158000 + bonus + shares
+Problematic value (contains letters): 52,500 + 5000 bonus
+Problematic value (contains letters): 48K
+Problematic value (contains letters): 135K (net)
+Problematic value (contains letters): Last year was $52k, but will be closer to $90k this year thanks to several new clients
+Problematic value (contains letters): 100k
+Problematic value (contains letters): 82,000 plus bonus
+Problematic value (contains letters): 140,000 base + 80,000 bonus/stock
+Problematic value (contains letters): $48/hr.  No salary.
+Problematic value (contains letters): 140K + 20-35k bonus
+Problematic value (contains letters): 90,000 + bonus
+Problematic value (contains letters): 100K
+Problematic value (contains letters): 115k
+Problematic value (contains letters): 94000 base + OT + bonus
+Problematic value (contains letters): $122,000 + $20K bonus + stock
+Problematic value (contains letters): ~$50k to ~$100k
+Problematic value (contains letters): $22/hr
+Problematic value (contains letters): $80K
+Problematic value (contains letters): $11/hour
+Problematic value (contains letters): 9,000,000 yen (before taxes)
+Problematic value (contains letters): 65k
+Problematic value (contains letters): 69,000/ year
+Problematic value (contains letters): 70K
+Problematic value (contains letters): 220,000 + bonus
+Problematic value (contains letters): 48K
+Problematic value (contains letters): 98,000 base plus roughly 50-75,000 in commission
+Problematic value (contains letters): 30K
+Problematic value (contains letters): 75000 + incentives
+Problematic value (contains letters): $30,000+ (this comes from 2 part time jobs)
+Problematic value (contains letters): 60,000 plus bonus appx 1500
+Problematic value (contains letters): 72000 plus eligible for 10% bonus
+Problematic value (contains letters): 50,000 base
+Problematic value (contains letters): 110,000. Plus annual bonus 6-8 weeks salery
+Problematic value (contains letters): 110,000. Plus annual bonus 6-8 weeks salery
+Problematic value (contains letters): 80k
+Problematic value (contains letters): £9 per hour
+Problematic value (contains letters): 96,000 + bonus
+Problematic value (contains letters): 44k
+Problematic value (contains letters): $55,000/year
+Problematic value (contains letters): 89K
+Problematic value (contains letters): Less than 10k
+Problematic value (contains letters): $235,000 last year
+Problematic value (contains letters): $42,500/yr
+Problematic value (contains letters): 18/hr, unsalaried
+Problematic value (contains letters): $17.50/hr (part time)
+Problematic value (contains letters): 17000p
+Problematic value (contains letters): $11.50 an hour, average of 20 to 40 hours per week
+Problematic value (contains letters): $30,000 approximately
+Problematic value (contains letters): Part time, base rate $54 /hour
+Problematic value (contains letters): Not enough (less than 60k (variable; depends on course work/research stage/contracts)
+Problematic value (contains letters): $42K
+Problematic value (contains letters): 72,000 + bonuses
+Problematic value (contains letters): about 24,000
+Problematic value (contains letters): Varies, based on events worked.  $20-75/hour
+Problematic value (contains letters): 30K
+Problematic value (contains letters): $105,000 + bonus (max $10k)
+Problematic value (contains letters): Appx 50,000
+Problematic value (contains letters): 40k
+Problematic value (contains letters): 65,000 AUD
+Problematic value (contains letters): 80K
+Problematic value (contains letters): 155k
+Problematic value (contains letters): 95000 (up to 40% bonus)
+Problematic value (contains letters): 96K +
+Problematic value (contains letters): $120,000 - very low end thanks to the downturn in the market
+Problematic value (contains letters): $125,000 salary; $250,000 OTE
+Problematic value (contains letters): Approx $30k
+Problematic value (contains letters): Varies from year to year 2017 was$18000, 2018 was 40000
+Problematic value (contains letters): 100k
+Problematic value (contains letters): 40 k
+Problematic value (contains letters): 90000 NZD
+Problematic value (contains letters): 85000 + super + travel allowance
+Problematic value (contains letters): $28 per hour during tax season
+Problematic value (contains letters): 130kr/hour (full-time but flexible)
+Problematic value (contains letters): $75,000 + bonus
+Problematic value (contains letters): ~100K package
+Problematic value (contains letters): ~100K package
+Problematic value (contains letters): 35.5k
+Problematic value (contains letters): 36000 net
+Problematic value (contains letters): $33/hour, approx $68k
+Problematic value (contains letters): 95,000 plus commission
+Problematic value (contains letters): 9,50/h
+Problematic value (contains letters): $67k
+Problematic value (contains letters): $34.99/hr casual
+Problematic value (contains letters): 20k
+Problematic value (contains letters): $63,000 +OT of approx $20,000
+Problematic value (contains letters): $65k plus overtime (~$70k total)
+Problematic value (contains letters): 62k
+Problematic value (contains letters): 37500 for .8FTE
+Problematic value (contains letters): 42k
+Problematic value (contains letters): 22/hour - part time (full time would amount to $45k)
+Problematic value (contains letters): 16,500 for part time work
+Problematic value (contains letters): 90k
+Problematic value (contains letters): 78,000 + bonus
+Problematic value (contains letters): $15/hourly or 31,200
+Problematic value (contains letters): $37K
+Problematic value (contains letters): $109K
+Problematic value (contains letters): 8,500,000 + bonus (this year 3 million)
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 105000 + bonus
+Problematic value (contains letters): $50K
+Problematic value (contains letters): 180,000 salary + 140,000 bonus/RSUs
+Problematic value (contains letters): 28k
+Problematic value (contains letters): 210k
+Problematic value (contains letters): 50K
+Problematic value (contains letters): 168,000 + bonus and LTI
+Problematic value (contains letters): 46K
+Problematic value (contains letters): 100K
+Problematic value (contains letters): 110,000/yr
+Problematic value (contains letters): 175000 (but then receive bonus of $130-$140k)
+Problematic value (contains letters): 90k Canadian
+Problematic value (contains letters): 75k
+Problematic value (contains letters): $45,000 - with no benefits besides a 401k
+Problematic value (contains letters): $45k/yr
+Problematic value (contains letters): 95K
+Problematic value (contains letters): $17K for a 9 month calendar
+Problematic value (contains letters): 46,00p
+Problematic value (contains letters): 49k
+Problematic value (contains letters): $30,900 or $17/hr at 35 hrs/week
+Problematic value (contains letters): $20/HR (about $45,000 with OT)
+Problematic value (contains letters): 56K
+Problematic value (contains letters): ~$22k
+Problematic value (contains letters): Not salaried - Full-time, $13/hr
+Problematic value (contains letters): 9500p
+Problematic value (contains letters): $95k
+Problematic value (contains letters): 200,000 (depending on bonus)
+Problematic value (contains letters): 90,176.40 + $8,000 bonus
+Problematic value (contains letters): 50k
+Problematic value (contains letters): $55k
+Problematic value (contains letters): $55k
+Problematic value (contains letters): 30,000 (for around 25-30 hours per week)
+Problematic value (contains letters): 109k
+Problematic value (contains letters): 65,000 plus overtime and bonuses
+Problematic value (contains letters): 26.85/hr
+Problematic value (contains letters): $96,000 + bonus eligible
+Problematic value (contains letters): 220K
+Problematic value (contains letters): 30,000 (take-home pay, about 17,000)
+Problematic value (contains letters): 37500, plus bonus
+Problematic value (contains letters): 125000 + 25% STI
+Problematic value (contains letters): 40.5k (brut) plus benefits, bonus + double pecule
+Problematic value (contains letters): 95k
+Problematic value (contains letters): 90,ooo
+Problematic value (contains letters): $64K
+Problematic value (contains letters): 24,000 (20/hr week part-time)
+Problematic value (contains letters): 100000 + 5 to 10k bonus
+Problematic value (contains letters): 91,800 + 10-13% bonus
+Problematic value (contains letters): Approximately $200,000 per year
+Problematic value (contains letters): 200k-300k
+Problematic value (contains letters): $20/hr
+Problematic value (contains letters): Contractor $35 per hour
+Problematic value (contains letters): Contractor $35 per hour
+Problematic value (contains letters): Contractor $35 per hour
+Problematic value (contains letters): 102k
+Problematic value (contains letters): $39,000. $45,000 with OT
+Problematic value (contains letters): $39,000. $45,000 with OT
+Problematic value (contains letters): 150k
+Problematic value (contains letters): $71,000 plus quarterly bonus
+Problematic value (contains letters): $90K
+Problematic value (contains letters): 66k
+Problematic value (contains letters): 115k
+Problematic value (contains letters): 115k
+Problematic value (contains letters): 140k
+Problematic value (contains letters): 75000.00 + Bonuses
+Problematic value (contains letters): 78-150k
+Problematic value (contains letters): 78-150k
+Problematic value (contains letters): 2E+28
+Problematic value (contains letters): 123000 (+20% performance bonus)
+Problematic value (contains letters): $54,000 annually
+Problematic value (contains letters): 114,000 + 15% bonus
+Problematic value (contains letters): 275k
+Problematic value (contains letters): 185k
+Problematic value (contains letters): 58000 salary 15k-25k in incentive pay
+Problematic value (contains letters): $15/hr
+Problematic value (contains letters): 65k
+Problematic value (contains letters): 14000 plus bonus
+Problematic value (contains letters): 160000+bonus
+Problematic value (contains letters): 140,000 (includes bonus & OT)
+Problematic value (contains letters): $360 k including annual bonus and stock.
+Problematic value (contains letters): $250,000 (with another $750,000 in commissions possible)
+Problematic value (contains letters): 100k
+Problematic value (contains letters): 132000 plus variable bonus ($10k this year)
+Problematic value (contains letters): $44,300 plus commission
+Problematic value (contains letters): 250k
+Problematic value (contains letters): 285,000 + bonus
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 80,000+ (approx., includes overtime compensation)
+Problematic value (contains letters): $160,000 + 15% annual bonus
+Problematic value (contains letters): 1 million
+Problematic value (contains letters): 120,000 base - 175,000 OTE
+Problematic value (contains letters): less than $2000 from work aside from welfare payments
+Problematic value (contains letters): 250k
+Problematic value (contains letters): 66000 (5 years)
+Problematic value (contains letters): $180,000 + 25% to 60% incentive compensation
+Problematic value (contains letters): $42,000 part time
+Problematic value (contains letters): not enough
+Problematic value (contains letters): 150 000 plus about 50 000 in bonuses
+Problematic value (contains letters): $100k plus commission
+Problematic value (contains letters): $42,000 part time
+Problematic value (contains letters): 130k
+Problematic value (contains letters): 65000 (20-25 hours per week)
+Problematic value (contains letters): 16.00 / hr
+Problematic value (contains letters): 160k
+Problematic value (contains letters): 122000 + 20% bonus
+Problematic value (contains letters): $100k plus benefite
+Problematic value (contains letters): $100k plus benefite
+Problematic value (contains letters): $93,000 + bonus
+Problematic value (contains letters): 12.74/hr - 26,000 per year
+Problematic value (contains letters): 200000+ 100% bonus
+Problematic value (contains letters): 129000 base 41000 commission
+Problematic value (contains letters): 170K
+Problematic value (contains letters): 50k
+Problematic value (contains letters): 157,000 + up to 60,000 bonus
+Problematic value (contains letters): 108000+ bonus and equity
+Problematic value (contains letters): 140k
+Problematic value (contains letters): 140k
+Problematic value (contains letters): 140k
+Problematic value (contains letters): 180k
+Problematic value (contains letters): 77,250 + 20% profitability bonus
+Problematic value (contains letters): 50k
+Problematic value (contains letters): 200,000 +25% bonus potential (also have equity)
+Problematic value (contains letters): $97,000 plus bonus
+Problematic value (contains letters): 28k
+Problematic value (contains letters): 55,000 plus bonus
+Problematic value (contains letters): B
+Problematic value (contains letters): $120,000 plus variable pay
+Problematic value (contains letters): 160000 + Bonus
+Problematic value (contains letters): 100k
+Problematic value (contains letters): Base 175,000 bonus 20,000
+Problematic value (contains letters): Base 175,000.00 plus bonus 20,000
+Problematic value (contains letters): 170k + 20% bonus
+Problematic value (contains letters): 170k + 20% bonus
+Problematic value (contains letters): 170k + 20% bonus
+Problematic value (contains letters): 80k
+Problematic value (contains letters): 275,000 + ~100% bonus
+Problematic value (contains letters): 50000+commission
+Problematic value (contains letters): $68,500 + overtime
+Problematic value (contains letters): 155000 + 15% Bonus
+Problematic value (contains letters): 48k
+Problematic value (contains letters): 105k
+Problematic value (contains letters): 11/hour plus $150/week plus commission
+Problematic value (contains letters): 27.00 hr
+Problematic value (contains letters): 280,000 Commission
+Problematic value (contains letters): $28/hr + shift diff.
+Problematic value (contains letters): 192000 +bonus +stock
+Problematic value (contains letters): 192000 +bonus +stock
+Problematic value (contains letters): 145,000 + Commission
+Problematic value (contains letters): 52012.00 plus bonuses average 60k yr
+Problematic value (contains letters): 110,000 plus bonus
+Problematic value (contains letters): 205000 base
+Problematic value (contains letters): 50000 plus commissions
+Problematic value (contains letters): 55,000 plus commissions  making it 75,000
+Problematic value (contains letters): 50000 plus commissions
+Problematic value (contains letters): $330K. Bonus $150K. Equity $1.0M
+Problematic value (contains letters): 135000 + bonus
+Problematic value (contains letters): 200000 plus 145000 bonus
+Problematic value (contains letters): 20.00 Hourly
+Problematic value (contains letters): $9/hour
+Problematic value (contains letters): $9/hour
+Problematic value (contains letters): 11700p
+Problematic value (contains letters): 80.000 USD
+Problematic value (contains letters): 165k
+Problematic value (contains letters): $8.25/hr
+Problematic value (contains letters): 110000.(90000 non salary avg)
+Problematic value (contains letters): $91/ 8 hour day worked
+Problematic value (contains letters): 90k
+Problematic value (contains letters): $82k
+Problematic value (contains letters): Zz 100000
+Problematic value (contains letters): 35k
+Problematic value (contains letters): F
+Problematic value (contains letters): 70,000 + bonus
+Problematic value (contains letters): 26,880 before taxes
+Problematic value (contains letters): 36000 + commission (~30% on top of base)
+Problematic value (contains letters): 170k
+Problematic value (contains letters): 80k plus bonus
+Problematic value (contains letters): 63000 including commission
+Problematic value (contains letters): 30000-33000 after tax with bonuses/overtime.
+Problematic value (contains letters): 8000 P/T
+Problematic value (contains letters): $140k
+Problematic value (contains letters): 150,000 +20% bonus
+Problematic value (contains letters): 118000.00 plus bonus
+Problematic value (contains letters): $85 thousand
+Problematic value (contains letters): 180000 (130 base 40 stock 15% variable bonus)/yr
+Problematic value (contains letters): 160,000 USD
+Problematic value (contains letters): 251,000 plus 50% bonus target
+Problematic value (contains letters): $145000 + 20% bonus
+Problematic value (contains letters): 60K
+Problematic value (contains letters): 85-100k
+Problematic value (contains letters): 140k + Bonus + Stocks
+Problematic value (contains letters): $46,366 ($70k+ with overtime)
+Problematic value (contains letters): 185000 plus bonus
+Problematic value (contains letters): 167,000 (with bonus)
+Problematic value (contains letters): 100k
+Problematic value (contains letters): $60k
+Problematic value (contains letters): $90,000 (OTE)
+Problematic value (contains letters): 191,250.00 + Commission
+Problematic value (contains letters): 63K
+Problematic value (contains letters): 22k
+Problematic value (contains letters): 60K
+Problematic value (contains letters): $15 / hr
+Problematic value (contains letters): $36K
+Problematic value (contains letters): averages out to $70,000
+Problematic value (contains letters): $73480 plus over time
+Problematic value (contains letters): 85k
+Problematic value (contains letters): 130000 + 20% bonus
+Problematic value (contains letters): $16380 ($10.50/hr x 30 hrs/wk)
+Problematic value (contains letters): 50000 + bonuses
+Problematic value (contains letters): 70K/yr
+Problematic value (contains letters): 350k
+Problematic value (contains letters): 71k
+Problematic value (contains letters): 12K
+Problematic value (contains letters): 130,000, bonuses for additional project work
+Problematic value (contains letters): 170K
+Problematic value (contains letters): 120000 + 50% discretionary bonus
+Problematic value (contains letters): 62,500 USD
+Problematic value (contains letters): 76,868 after bonus
+Problematic value (contains letters): 150K
+Problematic value (contains letters): 27,000 pre tax
+Problematic value (contains letters): 127k
+Problematic value (contains letters): 100k
+Problematic value (contains letters): about 22,000
+Problematic value (contains letters): min wage
+Problematic value (contains letters): $45,000 + Comission
+Problematic value (contains letters): 130K
+Problematic value (contains letters): 100K+
+Problematic value (contains letters): 12.50/hr
+Problematic value (contains letters): 250k
+Problematic value (contains letters): 500k
+Problematic value (contains letters): $11/hr
+Problematic value (contains letters): 54,000 plus OT and bonus
+Problematic value (contains letters): 125k
+Problematic value (contains letters): 140k
+Problematic value (contains letters): 67,500 + bonus
+Problematic value (contains letters): 40K
+Problematic value (contains letters): 40K
+Problematic value (contains letters): Roughly 80-85K, but it varies - I have a base of 40K and make 10% commission on my net sales.
+Problematic value (contains letters): about $400,000 a year after expenses
+Problematic value (contains letters): $800K+
+Problematic value (contains letters): $8.74/hr (roughly $8,000/yr
+Problematic value (contains letters): $150k
+Problematic value (contains letters): 85k + 30% bonus
+Problematic value (contains letters): $34k
+Problematic value (contains letters): 70k
+Problematic value (contains letters): 161,000 +Bonus
+Problematic value (contains letters): 69K
+Problematic value (contains letters): 48k base rising to 54k over 7 years and about double that if i work all offered overtime
+Problematic value (contains letters): 40K
+Problematic value (contains letters): 101K
+Problematic value (contains letters): 135,000 including bonus
+Problematic value (contains letters): 150k
+Problematic value (contains letters): 115,000 + 12,000 bonus
+Problematic value (contains letters): 80k
+Problematic value (contains letters): $47k
+Problematic value (contains letters): 175000 (base), 250000 (all-in)
+Problematic value (contains letters): 180000 + bonuses and stock grants
+Problematic value (contains letters): $41K, I'm hourly at $21/hr
+Problematic value (contains letters): $94,000. (Varies year to year - this was last year's.)
+Problematic value (contains letters): 80,000 no taxes, no benefits or bonuses
+Problematic value (contains letters): 93,500 plus bonus
+Problematic value (contains letters): $1.4M
+Problematic value (contains letters): $112,000 + 8% to 10% bonus
+Problematic value (contains letters): $180k
+Problematic value (contains letters): 230l000
+Problematic value (contains letters): 52K
+Problematic value (contains letters): 39,000 to 46, 800 per yeat
+Problematic value (contains letters): 45k
+Problematic value (contains letters): 120000 AUD
+Problematic value (contains letters): $38 an hour
+Problematic value (contains letters): 90k
+Problematic value (contains letters): 120k
+Problematic value (contains letters): Approx 70,000 + benefits
+Problematic value (contains letters): 172000 + 15% bonus, plus ~100k in equity
+Problematic value (contains letters): $125/hr
+Problematic value (contains letters): 150,000 + commission
+Problematic value (contains letters): 45,000 +10-15% commission on book sales from new adoptions
+Problematic value (contains letters): 98K
+Problematic value (contains letters): 130k
+Problematic value (contains letters): 120k
+Problematic value (contains letters): $60K base
+Problematic value (contains letters): 88l
+Problematic value (contains letters): TEST
+Problematic value (contains letters): 30,000 no benefits
+Problematic value (contains letters): 115k
+Problematic value (contains letters): $80K
+Problematic value (contains letters): 90K
+Problematic value (contains letters): $100,000 plus
+Problematic value (contains letters): 3,180 (I work 7hrs/week)
+Problematic value (contains letters): $147,000 + bonus
+Problematic value (contains letters): $147,000 + bonus
+Problematic value (contains letters): $147,000 + bonus
+Problematic value (contains letters): 240000 OTE
+Problematic value (contains letters): 39 lac rupees
+Problematic value (contains letters): $65,000/Year
+Problematic value (contains letters): 40000-80000, depending on bonus
+Problematic value (contains letters): 225k + equity
+Problematic value (contains letters): 39k
+Problematic value (contains letters): 105,000.00 + bonuses
+Problematic value (contains letters): 34,510 (inclusive of London Weighting)
+Problematic value (contains letters): 21.00/hour
+Problematic value (contains letters): $160k
+Problematic value (contains letters): USD 10000
+Problematic value (contains letters): $150K
+Problematic value (contains letters): $71,200 STH ; $105,000 OTH
+Problematic value (contains letters): 87000 plus 2k signing bonus and up to 15k in performance bonuses
+Problematic value (contains letters): around 80,000
+Problematic value (contains letters): 75k
+Problematic value (contains letters): 116,000 Base
+Problematic value (contains letters): 95,000 plus up to 35,000 in bonuses
+Problematic value (contains letters): 65 000$ (five year’s experience and Bachelor’s of Education degree)
+Problematic value (contains letters): 17000 per summer
+Problematic value (contains letters): 148000 plus RSUs
+Problematic value (contains letters): $72k
+Problematic value (contains letters): 280000 plus 80-100k bonus
+Problematic value (contains letters): jizz in my pants
+Problematic value (contains letters): 75k
+Problematic value (contains letters): $0 commission only
+Problematic value (contains letters): 100K plus commission (20K-40K)
+Problematic value (contains letters): 99k
+Problematic value (contains letters): $95K base plus commission and bonus =$200K
+Problematic value (contains letters): 20$/hr
+Problematic value (contains letters): $95K base plus commission and bonus =$200K
+Problematic value (contains letters): 41k/year
+Problematic value (contains letters): 50K (plus overtime)
+Problematic value (contains letters): 80K
+Problematic value (contains letters): $190,000 + Bonus
+Problematic value (contains letters): 65000 + bonus
+Problematic value (contains letters): $95k
+Problematic value (contains letters): 130000 plus commissions (50-200k)
+Problematic value (contains letters): 179000 + 20% bonus
+Problematic value (contains letters): between 150, - 250,
+Problematic value (contains letters): $160,000 plus $36,000 bonus
+Problematic value (contains letters): $65-$100K+, depending on commission
+Problematic value (contains letters): $65-100K+, depending on commission
+Problematic value (contains letters): $65-100K+, depending on commission
+Problematic value (contains letters): 215000 + 300000 in stock
+Problematic value (contains letters): Base is $68,000.    With overtime and differentials, it can easily be $125,000 -$130,000
+Problematic value (contains letters): Advertising
+Problematic value (contains letters): 38k
+Problematic value (contains letters): $115k
+Problematic value (contains letters): 152k
+Problematic value (contains letters): 142000 plus approx. 60000 Overtime
+Problematic value (contains letters): $16.80/hr ~ $34,000
+Problematic value (contains letters): Rs. 8,40,000
+Problematic value (contains letters): $100/hour
+Problematic value (contains letters): $92000 + $40k sales bonus
+Problematic value (contains letters): 5500000 isk
+Problematic value (contains letters): 103k + 10% bonus
+Problematic value (contains letters): 78,000 (plus annual bonus and stocks)
+Problematic value (contains letters): 70k
+Problematic value (contains letters): 45,000 to 48000 depending on OT
+Problematic value (contains letters): $81,000 (employer doesn't provide health insurance, dental insurance, vision insurance, disability insurance or a 401k plan.
+Problematic value (contains letters): 89k
+Problematic value (contains letters): 145,000 + 23k Bonus.
+Problematic value (contains letters): 48000/year
+Problematic value (contains letters): 60,000 + Bonus up to 18,000
+Problematic value (contains letters): 108000 + 16000 bonus
+Problematic value (contains letters): $50,000 w/o overtime
+Problematic value (contains letters): $1600/Week
+Problematic value (contains letters): 82,000 +18,000 bonus
+Problematic value (contains letters): About $36k, but I am paid hourly.
+Problematic value (contains letters): 108628+ bonuses and additional pays
+Problematic value (contains letters): $110/hr
+Problematic value (contains letters): 122k
+Problematic value (contains letters): $14,256 before taxes
+Problematic value (contains letters): 85k plus bonuses
+Problematic value (contains letters): 70000 + Bonus
+Problematic value (contains letters): $225,000 - W2 plus owner disbursement
+Problematic value (contains letters): 14560 plus tips (total with tips: $60k/yr)
+Problematic value (contains letters): 65000 plus 35000 top up, plus 5500 annual bonus
+Problematic value (contains letters): 40k salary + 20k commission
+Problematic value (contains letters): 160-185K
+Problematic value (contains letters): $340,000 inc./bonus
+Problematic value (contains letters): 137,000 + 16% bonus
+Problematic value (contains letters): $67,000 plus benefits
+Problematic value (contains letters): 65,000 plus commissions
+Problematic value (contains letters): 48.5K
+Problematic value (contains letters): 81,920 + ~8% bonus
+Problematic value (contains letters): 44k
+Problematic value (contains letters): 64K
+Problematic value (contains letters): 188000 (Base)
+Problematic value (contains letters): Approx. $36,500
+Problematic value (contains letters): 36k
+Problematic value (contains letters): 132k
+Problematic value (contains letters): US$80,000
+Problematic value (contains letters): R522070
+Problematic value (contains letters): 95k
+Problematic value (contains letters): 52000 + Bonus
+Problematic value (contains letters): 42/hour
+Problematic value (contains letters): $60K
+Problematic value (contains letters): 40K
+Problematic value (contains letters): 65,000 (including bonus)
+Problematic value (contains letters): $65/hr or $130k/year
+Problematic value (contains letters): $57,000/year
+Problematic value (contains letters): 70000 but just signed new job offer for 85000
+Problematic value (contains letters): $53k
+Problematic value (contains letters): 145k
+Problematic value (contains letters): 300K-325K
+Problematic value (contains letters): 112K
+Problematic value (contains letters): $20/hr at 25 hours each week
+Problematic value (contains letters): 163,000 + consulting dollars
+Problematic value (contains letters): $11.35 hourly
+Problematic value (contains letters): 1.1cr
+Problematic value (contains letters): $170-200K
+Problematic value (contains letters): boss
+Problematic value (contains letters): 78,000 annually
+Problematic value (contains letters): 221K
+Problematic value (contains letters): 76,000 OTE
+Problematic value (contains letters): $125K
+Problematic value (contains letters): $12/per hour
+Problematic value (contains letters): 120000 plus stock and bonus
+Problematic value (contains letters): $50 / hr
+Problematic value (contains letters): 60k base + 50 OTE Commission
+Problematic value (contains letters): 700pp
+Problematic value (contains letters): 25k
+Problematic value (contains letters): $70k
+Problematic value (contains letters): 40k
+Problematic value (contains letters): 32500 + 1% sales bonus
+Problematic value (contains letters): 5€/hour
+Problematic value (contains letters): 70k
+Problematic value (contains letters): 96k
+Problematic value (contains letters): 15/hour pre-tax (minimum wage)
+Problematic value (contains letters): 155,000 base (~225,000 total)
+Problematic value (contains letters): 21hr plus commission
+Problematic value (contains letters): 110k
+Problematic value (contains letters): Varies
+Problematic value (contains letters): 100k
+Problematic value (contains letters): 175,000 + 15% bonus
+Problematic value (contains letters): $60,000 + super
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 135k
+Problematic value (contains letters): 24/hr
+Problematic value (contains letters): $75k
+Problematic value (contains letters): 87k
+Problematic value (contains letters): 72K
+Problematic value (contains letters): $15 hour
+Problematic value (contains letters): $18k (17.25 * 20 hrs wk )
+Problematic value (contains letters): $43,000/year
+Problematic value (contains letters): $71,000 base + bonus
+Problematic value (contains letters): 45,000 + annual bonus
+Problematic value (contains letters): S$132000
+Problematic value (contains letters): 100k tax free
+Problematic value (contains letters): $15.11/hr
+Problematic value (contains letters): 110,000 + possible 10% annual bonus
+Problematic value (contains letters): 54000 gross salary (39400 net salary)
+Problematic value (contains letters): 750000 (exl bonus(
+Problematic value (contains letters): 37k
+Problematic value (contains letters): 41000/YEAR
+Problematic value (contains letters): 350k
+Problematic value (contains letters): 113,000 + bonus
+Problematic value (contains letters): $123K
+Problematic value (contains letters): 48,000 (before taxes)
+Problematic value (contains letters): Around 30k a year with all of my jobs; I made $14-20 an hour at each job
+Problematic value (contains letters): 60k
+Problematic value (contains letters): 51,500 + 8% Bonus
+Problematic value (contains letters): $77,000 + $8-10,000 in possible bonus
+Problematic value (contains letters): Normalize and sanitize this field!
+Problematic value (contains letters): 34k
+Problematic value (contains letters): 210,000 (includes $140,000 base and $80,000 commission)
+Problematic value (contains letters): 84k
+Problematic value (contains letters): 67k
+Problematic value (contains letters): 87,000 + time-and-a-half for hours worked over 40 a week
+Problematic value (contains letters): test
+Problematic value (contains letters): $165k + $15k bonus
+Problematic value (contains letters): 200k
+Problematic value (contains letters): 48000 plus commission approx 50k more
+Problematic value (contains letters): 47k
+Problematic value (contains letters): 37000/month
+Problematic value (contains letters): Custom Silicon Design
+Problematic value (contains letters): 125,000 base
+Problematic value (contains letters): 200k
+Problematic value (contains letters): $157,000 + ~$75k target bonus
+Problematic value (contains letters): 100k
+Problematic value (contains letters): 55,000 (tax-free)
+Problematic value (contains letters): 200k + 10%bonuses if company reaches quota
+Problematic value (contains letters): 31,500 GBP (~$40,000 USD)
