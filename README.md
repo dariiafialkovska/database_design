@@ -25,17 +25,17 @@ python compensation_data/main.py
 You can find SQL dump in compensation_data folder
 
 ### Database schema diagram
-!(table_schema.png)
+![Database schema](table_schema.png)
 
 
 ## Query Results
 You can find CSV files under compensation_data/queries folder
 
 ### City based compensation query results
-!(image.png)
+![Query result](image.png)
 
 ### Gender based compensation query results
-!(image-1.png)
+![Query result](image-1.png)
 
 ### Engineer job based compensation query results
-!(image-2.png)
+![Query result](image-2.png)
